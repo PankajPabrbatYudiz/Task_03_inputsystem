@@ -9,7 +9,7 @@ public class player_movement : MonoBehaviour
     private float currentSpeed;
     private float maxSpeed = 5f; // Set your desired maximum speed here
     private float accelerationRate = 1f; // Adjust the acceleration rate as needed
-
+    //xgfbsdgejn
     Vector2 StartingPosition;
     Vector2 EndingPosition;
     Vector3 mygameobjectPos;
